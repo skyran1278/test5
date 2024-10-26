@@ -1,6 +1,6 @@
 {
   "name": "@u-ran/test5",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "exports": "./main.ts",
   "license": "MIT",
   "tasks": {
